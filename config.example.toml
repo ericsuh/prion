@@ -1,0 +1,3 @@
+url_regex = "https://web.archive.org/web/([^/]+)/http://www.example.com/(?P<web_path>/.*)$"
+output_dir = "./output"
+starting_url = "https://web.archive.org/web/20170713075714fw_/http://www.example.com/index.html"
